@@ -29,7 +29,7 @@ npm run dev
 
 ## Deploy
 
-Link del proyecto desplegado: 
+Link del proyecto desplegado:  https://github.com/Oswaldo-Robles/Callback-Coffee
 
 ## Estructura del proyecto
 ```
@@ -39,6 +39,7 @@ src/
 │   ├── Footer.jsx
 │   ├── Hero.jsx
 │   ├── About.jsx
+│   ├── Features.jsx
 │   └── MenuItem.jsx (recibe props)
 ├── pages/
 │   ├── HomePage.jsx
