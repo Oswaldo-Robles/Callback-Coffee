@@ -4,7 +4,7 @@ function About() {
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-md-6">
-                        <h2 className="mb-4">Nuestra Historia</h2>
+                        <h2 className="mb-4 about-title">Nuestra Historia</h2>
                         <p className="text-muted">
                             Desde 2020, Café Delicia ha sido el refugio perfecto para los amantes del café.
                             Seleccionamos los mejores granos de las regiones cafetaleras del Perú para
